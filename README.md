@@ -1,4 +1,4 @@
-# Url-Shortener
+# UrlShortener
 A simple and fast URL Shortener web application built using a microservice-style backend. It allows users to generate short URLs for long links and redirects them efficiently.
 Built using Go, Node.js, Express, and PostgreSQL.
 1. Go service handles URL creation (POST /shorten)
@@ -8,7 +8,7 @@ Built using Go, Node.js, Express, and PostgreSQL.
 
 ![image]![alt text](image.png)
 
-Github Repo:- [sarthakvs/url_shortener](https://github.com/sarthakvs/url_shortener)
+Live llink: https://shortify-3w0i.onrender.com
    
 # How to run
 1. Download and extract the project
